@@ -1,0 +1,1 @@
+<p>Bravo, vous avez bien posté votre super news.</p>
